@@ -1,0 +1,24 @@
+{
+  "name": "durham-special3200-test-2020winter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/durham-special3200-test-2020winter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/durham-special3200-test-2020winter/issues"
+  },
+  "homepage": "https://github.com/Plasnid/durham-special3200-test-2020winter#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
